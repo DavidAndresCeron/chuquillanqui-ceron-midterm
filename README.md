@@ -2,7 +2,7 @@
 ![Peruvian food vs Colombian food](images/peru-vs-colombia.jpg)
 This is the Midterm repo MMED-1054-01.
 ## Instalation
-No instalation required. Simply download the xzip file and extract
+No instalation required. Simply download the zip file and extract
 ## Usage
 Open index.html in the browser of your choice
 ## Contributing
